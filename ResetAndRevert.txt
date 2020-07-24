@@ -1,2 +1,3 @@
 Reset
 change lan 1
+change lần 2
